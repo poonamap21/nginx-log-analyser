@@ -1,5 +1,3 @@
-# nginx-log-analyser
-
 # Nginx Log Analyser
 A simple Bash-based tool to analyze Nginx access logs and provide insights into traffic patterns, including top IP addresses, most requested paths, status codes, and user agents.
 
